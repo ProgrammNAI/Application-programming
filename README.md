@@ -1,5 +1,6 @@
 # Application-programming
  Создание программы для математических действий
  
- ![image](https://user-images.githubusercontent.com/90498579/132952500-9e1c353f-539d-4317-97f9-aacb2d7a9d14.png)
+![2021-09-11_20-29-38](https://user-images.githubusercontent.com/90498579/132953054-68994ed1-7712-4689-9d4b-a574f327257a.png)
+
 
